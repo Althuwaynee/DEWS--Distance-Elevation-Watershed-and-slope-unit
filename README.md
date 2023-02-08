@@ -3,7 +3,7 @@
 To automatically select the rain gauges around landslide inventory using geomorphological and hydrological relationships. 
 
 . Developed by: Omar AlThuwaynee
-
+[EGU 2020 abstract](https://meetingorganizer.copernicus.org/EGU22/EGU22-2774.html)
 
 ## Required Software
 QGIS software v.3.9, 3.10, 3.11
@@ -19,6 +19,7 @@ QGIS software v.3.9, 3.10, 3.11
 [4- Research Gabs of Rain Gauges Selection techniques for Landslide Threshold](https://www.youtube.com/watch?v=Ep4zqaOkegk&list=PL3GCqQd4xntCjSGFUPdnNUORizZX4smLh)
 
 [5- Tutorials playlist](https://www.youtube.com/playlist?list=PL3GCqQd4xntCjSGFUPdnNUORizZX4smLh)
+
 
 --------------------------------
 
