@@ -5,12 +5,10 @@ To automatically select the rain gauges around landslide inventory using geomorp
 # Software
 QGIS software v.3.9, 3.10, 3.11
 
-Its free to use and distribute.
 
-
-Happy learning
 Omar AlThuwaynee
 --------------------------------
+
 
 # DEWS: a QGIS tool pack for the automatic selection of reference rain gauges for landslide-triggering rainfall thresholds
 
