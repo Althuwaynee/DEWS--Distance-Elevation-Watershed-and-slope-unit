@@ -10,14 +10,17 @@ QGIS software v.3.9, 3.10, 3.11
 
 ## Tutorials
 
-[Background about Distance, Elevation, Watershed and Slope Unit Filters in Rain Gauges Selection](https://www.youtube.com/watch?v=8pdnJzV9tYo).
+[1- Background about Distance, Elevation, Watershed and Slope Unit Filters in Rain Gauges Selection](https://www.youtube.com/watch?v=8pdnJzV9tYo).
 
-[Flowchart of the DEWS Model for Automatic Rain Gauges Selection](https://www.youtube.com/watch?v=yoq_QH8WZjQ&t=23s)
+[2- Flowchart of the DEWS Model for Automatic Rain Gauges Selection](https://www.youtube.com/watch?v=yoq_QH8WZjQ&t=23s)
 
+[3- How to Automatically Select Rain Gauges and Develop Landslide Thresholds Introduction](https://www.youtube.com/watch?v=pj3TkUS23n8)
 
+[4- Research Gabs of Rain Gauges Selection techniques for Landslide Threshold](https://www.youtube.com/watch?v=Ep4zqaOkegk&list=PL3GCqQd4xntCjSGFUPdnNUORizZX4smLh)
+
+[5- Tutorials playlist](https://www.youtube.com/playlist?list=PL3GCqQd4xntCjSGFUPdnNUORizZX4smLh)
 
 --------------------------------
-
 
 # DEWS: a QGIS tool pack for the automatic selection of reference rain gauges for landslide-triggering rainfall thresholds
 
@@ -25,11 +28,11 @@ Omar F. Al-Thuwaynee , Massimo Melillo, Stefano Luigi Gariano | Research Institu
 Hyuck Jin Park, Sang-Wan Kim, IT Hwang | Department of Energy and Mineral Resources Engineering, Sejong University, Korea
 Luigi Lombardo | Department of Earth Systems Analysis (ESA), University of Twente, Enschede, Netherlands
 Paulo Hader | Department of Civil Engineering, São Paulo State University, São Paulo, Brazil
-•Meriame Mohajane | Department of Biology, Université Moulay Ismail, Meknès, Morocco
-•Renata Pacheco Quevedo | Earth Observation and Geoinformatics Division, National Institute for Space Research, São José dos Campos, Brazil
-•Filippo Catani | Department of Geosciences, University of Padova, Padova, Italy
-•Ali Aydda | Department of Geology, University Ibn Zohr – Agadir, Agadir, Morocco
---------------------
+Meriame Mohajane | Department of Biology, Université Moulay Ismail, Meknès, Morocco
+Renata Pacheco Quevedo | Earth Observation and Geoinformatics Division, National Institute for Space Research, São José dos Campos, Brazil
+Filippo Catani | Department of Geosciences, University of Padova, Padova, Italy
+Ali Aydda | Department of Geology, University Ibn Zohr – Agadir, Agadir, Morocco
+
  
 ## Abstract
 
