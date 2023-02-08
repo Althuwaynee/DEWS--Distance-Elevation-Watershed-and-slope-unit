@@ -2,20 +2,24 @@
  
 To automatically select the rain gauges around landslide inventory using geomorphological and hydrological relationships. 
 
-# Software
+. Developed by: Omar AlThuwaynee
+
+
+## Required Software
 QGIS software v.3.9, 3.10, 3.11
 
 
-Omar AlThuwaynee
+
+
 --------------------------------
 
 
 # DEWS: a QGIS tool pack for the automatic selection of reference rain gauges for landslide-triggering rainfall thresholds
 
-•Omar F. Al-Thuwaynee , Massimo Melillo, Stefano Luigi Gariano | Research Institute for Geo-Hydrological Protection IRPI, Italian National Research Council, Perugia, Italy
-•Hyuck Jin Park, Sang-Wan Kim, IT Hwang | Department of Energy and Mineral Resources Engineering, Sejong University, Korea
-•Luigi Lombardo | Department of Earth Systems Analysis (ESA), University of Twente, Enschede, Netherlands
-•Paulo Hader | Department of Civil Engineering, São Paulo State University, São Paulo, Brazil
+Omar F. Al-Thuwaynee , Massimo Melillo, Stefano Luigi Gariano | Research Institute for Geo-Hydrological Protection IRPI, Italian National Research Council, Perugia, Italy
+Hyuck Jin Park, Sang-Wan Kim, IT Hwang | Department of Energy and Mineral Resources Engineering, Sejong University, Korea
+Luigi Lombardo | Department of Earth Systems Analysis (ESA), University of Twente, Enschede, Netherlands
+Paulo Hader | Department of Civil Engineering, São Paulo State University, São Paulo, Brazil
 •Meriame Mohajane | Department of Biology, Université Moulay Ismail, Meknès, Morocco
 •Renata Pacheco Quevedo | Earth Observation and Geoinformatics Division, National Institute for Space Research, São José dos Campos, Brazil
 •Filippo Catani | Department of Geosciences, University of Padova, Padova, Italy
