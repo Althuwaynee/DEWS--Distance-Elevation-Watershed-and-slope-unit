@@ -8,6 +8,11 @@ To automatically select the rain gauges around landslide inventory using geomorp
 ## Required Software
 QGIS software v.3.9, 3.10, 3.11
 
+## Tutorials
+
+[Background about Distance, Elevation, Watershed and Slope Unit Filters in Rain Gauges Selection](https://www.youtube.com/watch?v=8pdnJzV9tYo).
+
+[Flowchart of the DEWS Model for Automatic Rain Gauges Selection](https://www.youtube.com/watch?v=yoq_QH8WZjQ&t=23s)
 
 
 
